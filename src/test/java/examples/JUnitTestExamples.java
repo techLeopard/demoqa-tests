@@ -1,6 +1,8 @@
+package examples;
+
 import org.junit.jupiter.api.*;
 
-public class JUnitTests {
+public class JUnitTestExamples {
 
     @BeforeAll
     static void beforeAll(){

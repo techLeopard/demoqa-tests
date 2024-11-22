@@ -1,8 +1,10 @@
+package examples;
+
 import static com.codeborne.selenide.Selectors.*;
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.$x;
 
-public class CssXpathTests {
+public class CssXpathExamples {
 
 
     void cssXpathExamples(){
