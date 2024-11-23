@@ -2,7 +2,7 @@ package examples;
 
 import org.junit.jupiter.api.*;
 
-public class JUnitTestExamples {
+public class TestExamples {
 
     @BeforeAll
     static void beforeAll(){
